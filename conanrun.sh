@@ -1,0 +1,1 @@
+. "/home/tema_s/test_case4/conanrunenv-release-x86_64.sh"

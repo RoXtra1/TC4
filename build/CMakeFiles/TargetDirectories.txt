@@ -1,0 +1,3 @@
+/home/tema_s/test_case4/build/CMakeFiles/TestCase4.dir
+/home/tema_s/test_case4/build/CMakeFiles/edit_cache.dir
+/home/tema_s/test_case4/build/CMakeFiles/rebuild_cache.dir

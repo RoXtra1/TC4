@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/TestCase4.dir/test.cpp.o -o TestCase4  /usr/lib/x86_64-linux-gnu/libicuuc.so /usr/lib/x86_64-linux-gnu/libicuio.so /usr/lib/x86_64-linux-gnu/libicui18n.so 
